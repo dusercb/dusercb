@@ -1,7 +1,7 @@
 # Daniel Collison
 
-Software developer. I build software that has to be right: trading systems that can prove their
-own decisions, and image pipelines that run on the GPU in your hand.
+Software developer. I love to build software people can trust: trading systems that show their
+working, and image pipelines that run on the GPU in your hand.
 
 **Portfolio: [danielcollison.dev](https://danielcollison.dev)**. Every project below, demonstrated with its own data. Also on [LinkedIn](https://www.linkedin.com/in/daniel-collison-0a0483451/).
 
