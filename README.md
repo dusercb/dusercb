@@ -3,7 +3,7 @@
 Software developer. I love to build software people can trust: trading systems that show their
 working, and image pipelines that run on the GPU in your hand.
 
-**Portfolio: [danielcollison.dev](https://danielcollison.dev)**. Every project below, demonstrated with its own data. Also on [LinkedIn](https://www.linkedin.com/in/daniel-collison-0a0483451/).
+**Portfolio: [danielcollison.dev](https://danielcollison.dev)**. Every project below is [demonstrated there](https://danielcollison.dev/work/) with its own data. Also on [LinkedIn](https://www.linkedin.com/in/daniel-collison-0a0483451/).
 
 | Project | What it is |
 | --- | --- |
